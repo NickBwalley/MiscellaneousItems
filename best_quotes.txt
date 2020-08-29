@@ -7,4 +7,5 @@
 6. Fix the cause not the Symptom. 
 7. Inorder to be irreplaceable, one must always be different. 
 8. First solve the problem. Then, write the code.
+9. Knowledge is Power.
 
