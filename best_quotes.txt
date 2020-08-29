@@ -3,3 +3,5 @@
 2. Learn to Pay now and Play later.
 3. Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.
 4 Code is like humor. When you have to explain it, it's bad.
+5. Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code.
+6. Fix the cause not the Symptom. 
