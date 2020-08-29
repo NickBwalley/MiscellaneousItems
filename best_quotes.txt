@@ -5,3 +5,4 @@
 4 Code is like humor. When you have to explain it, it's bad.
 5. Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code.
 6. Fix the cause not the Symptom. 
+7. Inorder to be irreplaceable, one must always be different. 
