@@ -1,2 +1,9 @@
-qwerty keyboard was created in order to prevent key jamming.
-Thanks to the team coz i am a relly fast typist.
+	HISTORY OF THE QWERTY KEYBOARD
+
+“Why aren’t the letters on the keyboard in alphabetical order?” asked every child ever when presented with a keyboard. Most of us were taught that the man who invented the keyboard created the QWERTY design to slow typists down. The faster someone typed, the more often the typewriter jammed, so Christopher Scholes put common letters in hard-to-reach spots. 
+
+This popular theory was just debunked. According to a new story in The Smithsonian, the QWERTY keyboard was actually created based on the advice of telegraph operators. The first keyboards were being used by telegraph operators to translate morse code, and the keyboards were built for that.
+
+The QWERTY controversy is coming to light now, as techies reconsider the utility of the keyboard configuration. The time has come, some say, to revise the keyboard for an increasingly mobile world.  
+
+The recently unveiled KALQ keyboard for smartphones is made for typing with just your thumbs. 
